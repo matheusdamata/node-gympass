@@ -1,6 +1,17 @@
-# App
+#  App GymPass
+Aplicação desenvolvida para check-ins e gestão para academias.
 
-GymPass style app.
+O usuário poderá realizar somente um check-in diário se estiver próximo de sua academia e poderá ter acesso em suas métricas de check-ins.
+
+### Detalhes
+**Conceitos e recursos utilizados**:
+
+-   SOLID
+-   Design Patterns
+-   Docker para iniciar o banco de dados,
+-   JWT
+-   Refresh Tokens
+-   RBAC
 
 ## RFs (Requisitos funcionais)
 
